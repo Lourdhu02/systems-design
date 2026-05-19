@@ -120,6 +120,20 @@ Each numbered module has the same five files: `README.md` (lesson), `cheat-sheet
 
 ---
 
+## Contributing
+
+If you want to improve the repo, read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
+If you are using Codex or another coding agent, also read [AGENTS.md](./AGENTS.md).
+
+Short version:
+
+- Date architectural claims.
+- Cite every quantitative claim.
+- Prefer tables and Mermaid diagrams over long prose.
+- Keep the focus on production trade-offs, ops, cost, and failure modes.
+
+---
+
 ## What to read first
 
 1. [Module 00 — Foundations](./00-foundations/README.md). Sets the vocabulary the rest of the course assumes.
